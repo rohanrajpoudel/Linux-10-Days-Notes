@@ -1,0 +1,36 @@
+POSIX (Portable Operating System Interface)
+-set of standards specifying a common set of functionalities that compliant operating systems should provide
+-developed by the IEEE (Institute of Electrical and Electronics Engineers) 
+-to ensure compatibility between various Unix-like operating systems
+
+Key features:
+Standardization:
+	- define the APIs, shell interfaces, utilities for compatible operating systems.
+Compatibility:
+	- aims to enhance portability and interoperability among different Unix-like systems
+	- programs written should run on any compliant system without modification
+
+
+Key Components:
+- Shell and Utilities
+	standard shell (command interpreter)
+	set of utilities (basic commands)
+- System Interfaces: 
+	Defines APIs for functions such as I/O operations, process control, signals, and more.
+
+- Extensions:
+	POSIX allows for system-specific extensions, 
+	the core functionalities defined by POSIX should be present for compatibility.
+
+- Application Portability:
+	primary goals of POSIX is to promote the portability of applications across different operating systems.
+
+eg. POSIX.1 (core services), POSIX.2 (shell and utilities), POSIX.4 (threads), POSIX.5 (real-time), and others.
+
+Many Unix-like operating systems, including Linux and various versions of Unix, aim to comply with POSIX standards.
+
+
+POSIX threads
+	- often referred to as Pthreads
+	- standard thread API specified by the POSIX standard for Unix-like operating systems
+	- Pthreads provide a standardized interface for thread creation, synchronization, and communication between threads. 

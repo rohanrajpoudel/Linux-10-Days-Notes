@@ -1,0 +1,31 @@
+1. Install tree command. 
+2. Construct the specified file/folder structure and show the result using tree command:
+.
+|--MainFolder
+|  |--SubFolder1
+|  |--SubFolder2
+|  |  |--File1.txt
+|  |  |--File2.py
+|  |--SubFolder3
+|  |  |--SubSubFolder
+|  |  |  |--SubSubSubFolder
+|  |  |  |--SubSubSub
+|  |  |  |  |--FinalFile.cpp
+|  |--FinalFolder
+
+3. Compress the MainFolder using tar.gz and decompress it into 'Desktop/new/file/folder'
+4. What command will you use to install a package named 'neofetch'. Install it.
+5. What command will you execute if you are to remote login into ip 192.168.1.29 using username "rrp"
+6. In path 'Desktop/multi' create 15 files named 'm1', 'm2', ... 'm15'
+7. Compress the folder multi using zip and decompress it in a new folder path 'Desktop/decompress/multid'.
+8. Add a corntab entry that will write "it's been an hour" every hour.
+9. List the entries in the corntab.
+10. How can you list man pages that contains the keyword "apt"
+11. Vertical multiplex your terminal using tmux.
+12. List firewall rules using iptables.
+13. Write a shell script that will ask the user for two number and print the greatest among those.
+14. List all the commands that you have typed so far.
+15. What command will you use 
+- to shut down your pc, 
+- to restart your pc,
+- to switch user.

@@ -1,0 +1,46 @@
+1. What command will you use to find the Kernel information of your system?
+2. Implement htop command.
+3. Create 3 users named 'you', 'mine', and 'myself', and Add 'you' in sudoers group, add 'mine', 'myself' in a new group named 'mygroup'.
+4. Create a new file in 'Desktop/assignment' and change it's file permission to read only.
+5. Find the IP address of your system.
+6. Show a use of environment variable.
+7. Using Bash shell, wirte a script to print 'I have done question number 7' 16 times.
+8. What command will you use to install a package named 'neofetch'. Install it.
+9. In path 'Desktop/multi' create 15 files named 'm1', 'm2', ... 'm15'
+10. Compress the folder multi using zip and decompress it in a new folder path 'Desktop/decompress/multid'.
+11. Add a corntab entry that will write "it's been an hour" every hour.
+12. How can you list man pages that contains the keyword "apt"
+13. Vertical multiplex your terminal using tmux.
+14. What command will you execute if you are to remote login into ip 192.168.1.29 using username "rrp"
+15. Show the use of iptables command.
+16. Install tree command.
+17. Construct the specified file/folder structure and show the result using tree command:
+.
+|--MainFolder
+|  |--SubFolder1
+|  |--SubFolder2
+|  |  |--File1.txt
+|  |  |--File2.py
+|  |--SubFolder3
+|  |  |--SubSubFolder
+|  |  |  |--SubSubSubFolder
+|  |  |  |--SubSubSub
+|  |  |  |  |--FinalFile.cpp
+|  |--FinalFolder
+18. Compress the MainFolder using tar.gz and decompress it into 'Desktop/new/file/folder'
+19. Create a file named marsFact with the content and use some command to show its content:
+"Mars, the fourth planet from the Sun, is known as the Red Plannet due to its iron rich surface."
+20. Provide simple example demonstrating the use of grep command.
+21. Displat one-line manyal page descriptions using the appropriate command.
+22. List firewall rules using any relavent tools.
+23. What command would you use to download the file https:releases.ubuntu.com/23.10.1/ubuntu-23.10.1-desktop-amd64.iso
+24. Print the name of your shell using environment variable.
+25. What command will you use to display how long the system has been running.
+26. Check the service status of your Network Manager
+27. List the entries in the corntab.
+28. Write a shell script that will ask the user for two number and print the greatest among those.
+29. List all the commands that you have typed so far.
+30. What command will you use 
+- to shut down your pc, 
+- to restart your pc,
+- to switch user.
